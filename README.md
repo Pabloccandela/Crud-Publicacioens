@@ -41,5 +41,6 @@ Inicialmente, estimé que el proyecto tomaría aproximadamente 4 horas. Sin emba
 
 ## Contacto
 
-- **LinkedIn:** [Pablo Candela](tu-enlace-de-linkedin)
-- **Correo Electrónico:** tu@email.com
+- **LinkedIn:** [Pablo Candela](https://www.linkedin.com/in/pabloccandela/)
+- **Correo Electrónico:** pabloccandela@gmail.com
+- **Telefono:** +54 3364540036
